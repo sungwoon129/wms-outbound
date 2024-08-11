@@ -1,4 +1,4 @@
-package com.blog.wmsoutbound.domain;
+package com.blog.domain;
 
 import jakarta.persistence.*;
 
@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Entity
-public class Location {
+public class Product {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -15,5 +15,5 @@ public class Location {
     private String name;
 
     @ManyToMany
-    private List<Product> products = new ArrayList<>();
+    private List<Location> locations = new ArrayList<>();
 }

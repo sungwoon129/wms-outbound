@@ -1,4 +1,4 @@
-package com.blog.wmsoutbound.domain;
+package com.blog.domain;
 
 import jakarta.persistence.*;
 

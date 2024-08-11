@@ -1,1 +1,5 @@
 rootProject.name = 'wms-outbound'
+include 'outbound-batch'
+include 'outbound-client'
+include 'outbound-domain'
+
