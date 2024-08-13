@@ -12,3 +12,7 @@ server : Spring Boot 3.3.2
 DB : H2 database  
 UI : HTML Web  
 ETC : Spring Batch, JPA
+
+### 이미지 ###
+![KakaoTalk_20240813_234946679_01](https://github.com/user-attachments/assets/72d02fd5-c10a-4876-87ab-7a1b3641960b)
+![KakaoTalk_20240813_234946679](https://github.com/user-attachments/assets/b0e395b7-e183-47d1-9071-3b57445f03e0)
